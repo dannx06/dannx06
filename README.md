@@ -34,7 +34,7 @@
 
 # 🖥️ Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Portugol](https://img.shields.io/badge/Portugol-FF6B00?style=for-the-badge&logo=codeforces&logoColor=white)
@@ -72,6 +72,12 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=dannx06&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=dannx06&color=blueviolet)
+
+---
+
+# 🐍 Snake Animation
+
+![Snake animation](https://raw.githubusercontent.com/dannx06/dannx06/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
